@@ -33,6 +33,7 @@ emacsen-common
 expat
 firefox
 firefox-locale-en
+foma-bin
 g++
 gawk
 gdb
@@ -80,6 +81,7 @@ linux-source
 lxterminal
 lynx
 make
+malaga-bin
 man-db
 manpages
 maven
@@ -264,6 +266,7 @@ virtualbox
 virtualbox-dkms
 virtualbox-qt
 vowpal-wabbit
+weka
 wget
 wireless-tools
 x11-apps
