@@ -9,6 +9,8 @@ antlr3
 apache2
 aspell
 aspell-en
+bibclean
+bibtool
 bzip2
 clamav
 clamtk
@@ -33,7 +35,6 @@ emacsen-common
 expat
 firefox
 firefox-locale-en
-foma-bin
 g++
 gawk
 gdb
